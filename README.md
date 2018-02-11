@@ -1,7 +1,3 @@
-#### Budgt — Regain Control Over Your Money
+#### Fishackaton proof of concept — From Fishery to Your Table with Proven Quality
 
-This is the visual guideline for Budgt application
 
-See below screenshot:
-
-<img src="https://github.com/TonyDurant/budgt/blob/master/screenshot.png" width="250">
